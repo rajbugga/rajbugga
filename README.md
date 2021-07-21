@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajbugga
+- 👋 Hi, I’m Rajeev (@rajbugga)
 - 👀 I’m interested in Azure, PowerShell, YAML, Docker and Python
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Azure
